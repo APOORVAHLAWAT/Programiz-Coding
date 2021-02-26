@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+int main() {
+    
+    double num1,num2,mul;
+    
+    cin >> num1 >> num2;
+    
+    mul = num1 * num2;
+    
+    cout << mul;
+  
+    // Write C++ code here
+   
+    return 0;
+}
